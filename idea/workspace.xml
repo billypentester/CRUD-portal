@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5916cfcd-6b3c-4b69-bf49-e9f03f083bc6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/bootstrap-4.0.0/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1UHqUpzebDT5dG9chrjp7QUP8xR" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/final" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.boot.html">
+    <configuration name="boot.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:6432/crud/boot.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:6432/crud/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="practice.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:6432/crud/practice.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="s_insert.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:6432/crud/s_insert.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="student.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:6432/crud/student.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.boot.html" />
+        <item itemvalue="JavaScript Debug.s_insert.html" />
+        <item itemvalue="JavaScript Debug.practice.html" />
+        <item itemvalue="JavaScript Debug.student.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5916cfcd-6b3c-4b69-bf49-e9f03f083bc6" name="Default Changelist" comment="" />
+      <created>1575023886864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575023886864</updated>
+      <workItem from="1575023888315" duration="5740000" />
+      <workItem from="1575031604880" duration="3522000" />
+      <workItem from="1575092616013" duration="3086000" />
+      <workItem from="1575108699458" duration="4230000" />
+      <workItem from="1575113772156" duration="1860000" />
+      <workItem from="1575185208000" duration="3322000" />
+      <workItem from="1575286263644" duration="4454000" />
+      <workItem from="1575291749276" duration="495000" />
+      <workItem from="1575292270881" duration="522000" />
+      <workItem from="1575301633355" duration="3361000" />
+      <workItem from="1575305051232" duration="2308000" />
+      <workItem from="1575349519190" duration="3911000" />
+      <workItem from="1575370648053" duration="13000" />
+      <workItem from="1575376269913" duration="1637000" />
+      <workItem from="1575439104549" duration="830000" />
+      <workItem from="1575970120319" duration="54000" />
+      <workItem from="1575981118280" duration="649000" />
+      <workItem from="1576035231814" duration="5070000" />
+      <workItem from="1576067114555" duration="4497000" />
+      <workItem from="1576076131778" duration="2491000" />
+      <workItem from="1576085228403" duration="5019000" />
+      <workItem from="1576155006094" duration="3194000" />
+      <workItem from="1576165469647" duration="5300000" />
+      <workItem from="1576229840595" duration="6075000" />
+      <workItem from="1576241094349" duration="3989000" />
+      <workItem from="1576257437092" duration="2557000" />
+      <workItem from="1576308753633" duration="3591000" />
+      <workItem from="1576318040310" duration="3414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
